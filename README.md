@@ -1,7 +1,7 @@
-# Gaia's Chat🌱
+# Veggie Chat🌱
 
 ## Overview
-Gaia's Chat is a versatile iOS application that combines calorie tracking with a unique chat feature powered by the OpenAI API. In addition to helping you monitor your daily food intake and calorie consumption, Gaia's Chat allows you to interact with an AI-powered chatbot to discover vegan recipes. Whether you're new to veganism or a seasoned plant-based eater, Gaia's Chat provides a convenient way to explore delicious vegan dishes.
+Veggie Chat is a versatile iOS application that combines calorie tracking with a unique chat feature powered by the OpenAI API. In addition to helping you monitor your daily food intake and calorie consumption, Veggie's Chat allows you to interact with an AI-powered chatbot to discover vegan recipes. Whether you're new to veganism or a seasoned plant-based eater,Veggie Chatprovides a convenient way to explore delicious vegan dishes.
 
 ## Features
 - **Calorie Tracking:** Keep track of your daily food intake and monitor your calorie consumption.
@@ -12,7 +12,7 @@ Gaia's Chat is a versatile iOS application that combines calorie tracking with a
 - **Multi-tab Navigation:** Switch between different tabs for calorie tracking, recipe discovery, and account settings.
 
 ## Installation
-To use Gaia's Chat, follow these steps:
+To use Veggie Chat, follow these steps:
 1. Clone this repository to your local machine.
 2. Open the project in Xcode.
 3. Build and run the project on a simulator or your iOS device.
